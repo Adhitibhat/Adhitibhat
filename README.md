@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhiti_U</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Business Analyst from Razorpay</h3>
 
 <img align ="right" alt="coding" width="300" src="https://i.gifer.com/origin/a9/a9d3e0bd0958885f63ecfe67117b0505_w200.gif">
 <p align="left">
